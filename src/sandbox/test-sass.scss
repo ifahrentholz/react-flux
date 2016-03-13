@@ -1,0 +1,8 @@
+body {
+  .content {
+    font-size: 12px;
+    &:last-child {
+      font-size: 10px;
+    }
+  }
+}
